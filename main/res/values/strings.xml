@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mBot Ranger</string>
+    <string name="line_following">Mode: Line Following</string>
+    <string name="obstacle_avoidance">Mode: Obstacle Avoidance</string>
+    <string name="hand_following">Mode: Hand Following</string>
+    <string name="mode_stopped">Mode: Stopped</string>
+    <string name="scanning">Scanning for mBot…</string>
+    <string name="mbot_not_found">mBot not found.</string>
+    <string name="connected_to_device">Connected to %s</string>
+</resources>
