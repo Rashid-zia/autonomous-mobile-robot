@@ -115,12 +115,4 @@ Through this project, I gained strong practical experience in:
 - Bluetooth communication protocols
 - System debugging and testing
 
----
-
-## 👤 Author
-
-Muhammad Rashid Zia
-Bachelor's Graduate – Applied Informatics in Industrial Automation  
-Robotics | Embedded Systems | Autonomous Systems  
-
 
