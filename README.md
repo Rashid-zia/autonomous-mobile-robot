@@ -7,6 +7,7 @@ This repository contains the complete implementation of my Bachelor's Thesis pro
 The project focuses on the "design, development, and testing of an autonomous mobile robotic platform** capable of performing multiple intelligent behaviors using onboard sensors and a smartphone-based remote control system.
 
 ---
+![makeblock](https://github.com/user-attachments/assets/88be2d98-7fb4-4bf9-959c-9b0da19c2aea)
 
 ## Project Overview
 
@@ -18,6 +19,8 @@ The main goal of this project is to design and implement a low-cost autonomous m
 - Multiple intelligent operating modes
 
 The system is intended as a practical educational platform for learning and experimenting with mobile robotics, embedded systems, control algorithms, and human–robot interaction.
+
+
 
 ---
 
